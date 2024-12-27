@@ -8,7 +8,8 @@
 
 ### Project Overview:
 Developed a secure and user-friendly **Login and Registration System** using Python's Tkinter library. This project emphasizes user authentication and account management, featuring functionalities like CAPTCHA validation, password change, and account deletion. User data is persistently stored in JSON files, ensuring seamless access to login credentials across sessions.
-![Output 1](https://github.com/user-attachments/assets/681951b7-ce28-4914-b21b-5459777f6e80)
+![Output1](https://github.com/user-attachments/assets/7c8f7808-6058-43c6-abb7-3858417784d8)
+
 
 ### Key Features:
 - **Registration System**: Implements robust password validation, requiring passwords to contain at least 8 characters, including uppercase, lowercase, digits, and special characters.
@@ -25,7 +26,8 @@ Developed a secure and user-friendly **Login and Registration System** using Pyt
 
 - **Persistent Data Storage**: Securely manages all user credentials using a JSON-based system.
 
-  ![Output 5](https://github.com/user-attachments/assets/3b9c7837-c3f2-4625-a1bb-5772772cbbc6)
+ 
+![Output2](https://github.com/user-attachments/assets/bf891b93-5b3e-4eb6-a5cc-d1621722d379)
 
 
 ### Challenges Solved:
